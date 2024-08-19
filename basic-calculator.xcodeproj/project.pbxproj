@@ -24,6 +24,11 @@
 		633BA1742C6EFE47008C8986 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		633BA1772C6EFE47008C8986 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		633BA1792C6EFE47008C8986 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		633BA17F2C6EFFF7008C8986 /* multiplication.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = multiplication.png; path = "/Users/macuser/Desktop/../Downloads/basic calculator assets/multiplication.png"; sourceTree = "<absolute>"; };
+		633BA1802C6EFFF7008C8986 /* subtraction.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = subtraction.png; path = "/Users/macuser/Desktop/../Downloads/basic calculator assets/subtraction.png"; sourceTree = "<absolute>"; };
+		633BA1812C6EFFF7008C8986 /* addition.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = addition.png; path = "/Users/macuser/Desktop/../Downloads/basic calculator assets/addition.png"; sourceTree = "<absolute>"; };
+		633BA1822C6EFFF7008C8986 /* division.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = division.png; path = "/Users/macuser/Desktop/../Downloads/basic calculator assets/division.png"; sourceTree = "<absolute>"; };
+		633BA1832C6EFFF7008C8986 /* image_math.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = image_math.jpg; path = "/Users/macuser/Desktop/../Downloads/basic calculator assets/image_math.jpg"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +65,11 @@
 				633BA16D2C6EFE46008C8986 /* SceneDelegate.swift */,
 				633BA16F2C6EFE46008C8986 /* ViewController.swift */,
 				633BA1712C6EFE46008C8986 /* Main.storyboard */,
+				633BA1812C6EFFF7008C8986 /* addition.png */,
+				633BA1822C6EFFF7008C8986 /* division.png */,
+				633BA1832C6EFFF7008C8986 /* image_math.jpg */,
+				633BA17F2C6EFFF7008C8986 /* multiplication.png */,
+				633BA1802C6EFFF7008C8986 /* subtraction.png */,
 				633BA1742C6EFE47008C8986 /* Assets.xcassets */,
 				633BA1762C6EFE47008C8986 /* LaunchScreen.storyboard */,
 				633BA1792C6EFE47008C8986 /* Info.plist */,
